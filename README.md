@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nakulpatel0306!
-- 👀 I’m interested in computer science, engineering, and technology!
-- 🌱 I’m currently learning a number of technology courses at SDSS!
-- 💞️ I’m looking to collaborate/work on some cool computer science based projects!
-- 📫 How to reach me: nakul0306@gmail.com
+- 👋  Hi, I’m @nakulpatel0306!
+- 👀  I’m interested in computer science, engineering, and technology!
+- 🌱  I’m currently learning a number of technology courses at SDSS!
+- 💞️  I’m looking to collaborate/work on some cool computer science based projects!
+- 📫  How to reach me: nakul0306@gmail.com
