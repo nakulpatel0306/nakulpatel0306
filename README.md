@@ -60,7 +60,7 @@ I’m motivated by the impact of technology to **solve real-world problems**, an
 <p align="center">
   <a href="https://www.linkedin.com/in/nakulpatel0306/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nakul0306@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://nakulpatel0306.github.io/my-portfolio"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://nakul-patel-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>  
 
 ---
