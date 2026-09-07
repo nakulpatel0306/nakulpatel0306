@@ -1,8 +1,12 @@
-# 👋 Hey, I’m Nakul Patel!  
+# 👋 Hey, I'm Nakul Patel!
 
-I’m a **fourth-year Computer Science & Business Administration student at Wilfrid Laurier University**, passionate about building **scalable software, machine learning models, and full-stack applications**.  
+I build **full-stack software with AI underneath it**, and I move fast doing it.
 
-I’m motivated by the impact of technology to **solve real-world problems**, and I aim to contribute to projects that **push the boundaries of innovation**.  
+Fifth-year **Computer Science & Business Administration** student at **Wilfrid Laurier University**, graduating August 2027. Four co-op terms and a startup in, currently a software developer intern at **D2L**.
+
+I do my best work in small teams where the thing I build on Monday is in someone's hands by Friday. Co-founded **Amber**, an AI-powered hiring platform, and led it technically from the first schema to the last screen.
+
+Open to **full-time and new grad software roles starting September 2027**.
 
 ---
 
@@ -80,4 +84,4 @@ I’m motivated by the impact of technology to **solve real-world problems**, an
 
 ---
 
-⭐️ *Aspiring Software Innovator Focused On Building Impactful Solutions With Cutting-Edge Tech*  
+⭐️ *Building full-stack products with AI underneath, shipping fast, staying close to the people using them*
